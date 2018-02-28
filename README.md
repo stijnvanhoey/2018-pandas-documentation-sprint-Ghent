@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Pandas documentation sprint Ghent, 2018-03-10
 
