@@ -1,8 +1,7 @@
 ---
-layout: default
+title: "Pandas documentation sprint "
+sub_title: "Ghent, 2018-03-10"
 ---
-
-# Pandas documentation sprint Ghent, 2018-03-10
 
 On March 10th, the Pandas community is organizing a worldwide documentation sprint: [https://python-sprints.github.io/pandas/](https://python-sprints.github.io/pandas/)
 
