@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pandas Documentation Sprint Ghent
 
 On March 10th, the Pandas community is organizing a worldwide documentation sprint! https://python-sprints.github.io/pandas/
 
