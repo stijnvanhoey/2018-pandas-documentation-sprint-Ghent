@@ -1,37 +1,16 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On March 10th, the Pandas community is organizing a worldwide documentation sprint! https://python-sprints.github.io/pandas/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Ghent event will be held at the *Atelier*, the headquarters of [@MichielStock](https://github.com/MichielStock).
 
-### Markdown
+Please sign up for the sprint. Seats are limited to 15 attendees!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What we'll do
 
-```markdown
-Syntax highlighted code block
+Contributors throughout the world are going to improve Pandas' documentation. Each contributed hour has the potential to transform countless collective hours of difficulties into as many hours of productive work. This is a great opportunity to learn from fellow programmers, to learn more about Pandas and to have a significant impact on data science.
 
-# Header 1
-## Header 2
-### Header 3
+### What to bring
 
-- Bulleted
-- List
+A laptop. Ideally with Python (2.7, 3.5 or 3.6) installed, along with the Pandas library, and Git. We will provide wifi!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
