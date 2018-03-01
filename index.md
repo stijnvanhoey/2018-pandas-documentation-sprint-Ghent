@@ -2,7 +2,7 @@
 title: "Pandas documentation sprint, Ghent, 2018-03-10"
 ---
 
-![](/static/images/pandas_logo.png)
+![center-aligned-image](/static/images/pandas_logo.png){: .align-center}
 
 On **March 10th**, the Pandas community is organizing a worldwide documentation sprint: [https://python-sprints.github.io/pandas/](https://python-sprints.github.io/pandas/)
 
