@@ -33,6 +33,7 @@ First of all, add a PR to this repository by updating the [index.md](https://git
 * Joris Vandenbossche, [@jorisvandenbossche](https://github.com/jorisvandenbossche)
 * Michiel Stock, [@MichielStock](https://github.com/MichielStock)
 * Stijn Van Hoey, [@stijnvanhoey](https://github.com/stijnvanhoey)
-* 
+* Bram De Jaegher, [@beramos](https://github.com/beramos)
+*
 
 
