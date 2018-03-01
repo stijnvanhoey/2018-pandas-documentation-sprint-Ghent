@@ -16,6 +16,12 @@ Contributors throughout the world are going to improve Pandas' documentation. Ea
 
 A laptop. Ideally with Python (2.7, 3.5 or 3.6) installed, along with the Pandas library, and Git. We will provide wifi!
 
+Before the sprint, you should:
+
+* [Setup a working environment](https://python-sprints.github.io/pandas/guide/pandas_setup.html)
+* Master how to write a proper docstring, as explained [in this guide](https://python-sprints.github.io/pandas/guide/pandas_docstring.html)
+* Join the [Gitter channel](https://gitter.im/py-sprints/pandas-doc) 
+
 ### How to subscribe?
 
 Add a PR to this repository by updapting the [index.md](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/blob/master/index.md) file  with your name added to the attendees list!
