@@ -26,7 +26,7 @@ Before the sprint, you should:
 
 ### How to subscribe?
 
-Add a PR to this repository by updating the [index.md](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/blob/master/index.md) file  with your name and Github account added to the attendees list.
+First of all, add a PR to this repository by updating the [index.md](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/blob/master/index.md) file with your name and Github account added to the attendees list. Furthermore, provide your contact details in this [subsciption form](https://goo.gl/forms/KqbCxzxc23tlbQSG2) so we can provide more event details.
 
 ### Attendees
 
