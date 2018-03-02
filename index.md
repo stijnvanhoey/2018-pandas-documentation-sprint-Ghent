@@ -35,6 +35,6 @@ First of all, add a PR to this repository by updating the [index.md](https://git
 * Stijn Van Hoey, [@stijnvanhoey](https://github.com/stijnvanhoey)
 * Bram De Jaegher, [@beramos](https://github.com/beramos)
 * Jenna Vergeynst, [@JennaVergeynst](https://github.com/JennaVergeynst)
-
+* Daan Van Hauwermeiren, [@DaanVanHauwermeiren](https://github.com/DaanVanHauwermeiren)
 
 
