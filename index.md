@@ -24,6 +24,8 @@ Before the sprint, you should:
 * Master how to write a proper docstring, as explained [in this guide](https://python-sprints.github.io/pandas/guide/pandas_docstring.html)
 * Join the [Gitter channel](https://gitter.im/py-sprints/pandas-doc) 
 
+Check the [#pandasSprint checklist](https://python-sprints.github.io/pandas/dashboard.html) to proceed!
+
 ### How to subscribe?
 
 First of all, add a PR to this repository by updating the [index.md](https://github.com/stijnvanhoey/2018-pandas-documentation-sprint-Ghent/blob/master/index.md) file with your name and Github account added to the attendees list. Furthermore, provide your contact details in this [subscription form](https://goo.gl/forms/KqbCxzxc23tlbQSG2) so we can provide more event details.
